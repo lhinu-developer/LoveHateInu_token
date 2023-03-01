@@ -1,0 +1,1 @@
+module.exports=['LoveHateInu','LHI','<OWNER_ADDRESS>']

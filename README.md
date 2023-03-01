@@ -1,0 +1,1 @@
+# LoveHateInu Token contract
