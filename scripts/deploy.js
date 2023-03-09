@@ -8,7 +8,7 @@ async function main() {
   const Token = await hre.ethers.getContractFactory("Token");
   const token = await Token.deploy(
     "LoveHateInu",
-    "LHI",
+    "LHINU",
     "<OWNER_ADDRESS>"
   );
 

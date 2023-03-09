@@ -1,1 +1,1 @@
-module.exports=['LoveHateInu','LHI','<OWNER_ADDRESS>']
+module.exports=['LoveHateInu','LHINU','<OWNER_ADDRESS>']

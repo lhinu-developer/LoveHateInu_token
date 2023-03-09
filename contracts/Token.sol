@@ -15,7 +15,7 @@ contract Token is Context, IERC20Metadata {
     string private _name;
     string private _symbol;
     uint8 private constant _decimals = 18;
-    uint256 public constant hardCap = 1_000_000_000 * (10**_decimals); //1 billion
+    uint256 public constant hardCap = 100_000_000_000 * (10**_decimals); //100 billion
 
     constructor(
         string memory name_,
